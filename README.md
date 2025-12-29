@@ -27,10 +27,10 @@ that best fit different tactical environments.
 - GitHub
 
 ## Repository Structure
-data/ Raw FBref striker data
-excel/ Excel dashboard and profiling tool
-python/ Python automation and modeling
-outputs/ Radar visualizations and outputs
+- data/ Raw FBref striker data
+- excel/ Excel dashboard and profiling tool
+- python/ Python automation and modeling
+- outputs/ Radar visualizations and outputs
 
 ## Example Outputs
 Radar charts illustrate how different forwards contribute across tactical archetypes,
